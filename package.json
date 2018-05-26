@@ -1,0 +1,8 @@
+{
+  "name": "nodeschool",
+  "version": "0.0.1",
+  "description": "NodeSchool",
+  "main": "index.js",
+  "author": "Wilfred Morgan",
+  "license": "MIT"
+}
